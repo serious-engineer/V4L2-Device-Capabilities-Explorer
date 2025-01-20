@@ -1,7 +1,9 @@
 ```markdown
 # V4L2 Device Query Tool
 
-A lightweight C application to query and display the capabilities of Video4Linux2 (V4L2) devices. This tool retrieves information about supported video formats, frame sizes, and device inputs, helping developers understand their video capture hardware better.
+A lightweight C application to query and display the capabilities of Video4Linux2 (V4L2) devices.
+This tool retrieves information about supported video formats, frame sizes, and device inputs.
+It helping developers understand their video capture hardware better.
 
 ## Features
 
